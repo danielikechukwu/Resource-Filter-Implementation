@@ -1,0 +1,6 @@
+@ResourceFilterImplementation_HostAddress = http://localhost:5080
+
+GET {{ResourceFilterImplementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

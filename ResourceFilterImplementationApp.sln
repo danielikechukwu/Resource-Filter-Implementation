@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceFilterImplementation", "ResourceFilterImplementation\ResourceFilterImplementation.csproj", "{35542417-4A02-4C3E-996F-8160834CFC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35542417-4A02-4C3E-996F-8160834CFC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35542417-4A02-4C3E-996F-8160834CFC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35542417-4A02-4C3E-996F-8160834CFC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35542417-4A02-4C3E-996F-8160834CFC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E3429E-EDF1-41CF-84F7-F0CB7AEABFC9}
+	EndGlobalSection
+EndGlobal
